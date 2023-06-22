@@ -1,0 +1,145 @@
+@import url('./header.css');
+@import url('./footer.css');
+
+:root {
+    --fonte-principal: 'Montserrat', sans-serif;
+    --fonte-logo: 'Inter', sans-serif;
+    --azul-claro: #6BD1FF;
+    --preto: #000000;
+    --branco: #FFFFFF;
+    --cor-fundo: #ffffff;
+    --cor-primaria: #blue;
+    --cor-hover: #6bd1ff;
+}
+
+body {
+    font-family: var(--fonte-principal);
+    color: var(--preto);
+    font-size: 16px;
+    
+}
+
+.cabecalho__logo-link {
+    text-decoration: none;
+}
+
+h3 {
+    text-align: center;
+    font-size: bold;
+    font-size: 28px;
+    font-weight: 600;
+    margin: 1em 0;
+}
+
+.mapa {
+	padding: 3em 0;
+	background: linear-gradient(#fefefe, #888888);
+	
+}
+
+.mapa-conteudo {
+	width: 940px;
+	margin: 0 auto;
+}
+
+.mapa p {
+	margin:0 0 2em;
+	text-align: center;
+}
+
+
+.dp-menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.dp-menu ul {
+    background-color: var(--cor-fundo);
+}
+
+.dp-menu ul li {
+    display: inline;
+    position: relative;
+}
+
+.dp-menu ul li a {
+    color: var(--cor-primaria);
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    transition: background .3s;
+}
+
+.dp-menu ul li a:hover {
+    background-color: var(--cor-hover);
+}
+
+/*sub menu*/
+.dp-menu ul ul {
+    display: none;
+    left: 0;
+    position: absolute;
+}
+
+.dp-menu ul li:hover ul {
+    display: block;
+}
+
+.dp-menu ul ul {
+    width: 150px
+}
+
+.dp-menu ul ul li a {
+    display: block;
+}
+
+
+.tabela {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: var(--branco);
+    color: black;
+    
+}
+
+.linha-branco td{
+    border: none;
+    background-color: var(--branco);
+    border-radius: 0 0 0 0;
+    color: var(--branco);
+}
+
+
+
+table {
+	margin: 20px 0 40px;
+    width: 100%;
+
+}
+
+thead {
+	background: black;
+	color: white;
+	font-weight: bold;
+    width: 20%;
+    
+    
+}
+
+td, th {
+	border: 1px solid #000000;
+	padding: 8px 15px;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    border-radius: 0 0 50px 50px;
+    border:none;
+}
+
+.paragrafo {
+    text-align: center;
+    font-weight: 400;
+    text-decoration: bold;
+}
+

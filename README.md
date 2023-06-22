@@ -1,9 +1,4 @@
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
 
-<hr>
-
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
 
 ## Tecnologias utilizadas durante o curso
 * JavaScript
@@ -14,69 +9,57 @@
 
 
 ## Conteúdo
-01 - Validando o HTML:
+Orientações para a apresentação
+Quando iniciamos a Trilha 2, você já tinha um site em HTML, CSS e um pouco de JavaScript, com os requisitos a seguir:
 
-tipos de input/ min-length e max-length / required;
+Logotipo
+Menu
+Título destacado sobre o assunto do site com imagem do fundo
+Trecho de texto com plano de fundo colorido
+Botão com link interno ou externo
+Imagens com descrições
+Vídeo
+Mapa de localização
+Formulário para coletar cadastro
+Rodapé com a frase criado por seunome
 
-Definir tipos para campos de digitação;
+Ao longo da Trilha 2, você foi incorporando novas funcionalidades em seu código enquanto aprofundou os conhecimentos em HTML, CSS e JS.
 
-Limitar a quantidade de caracteres em um elemento input;
+Por isso, para a entrega final do código e a apresentação do seu site aprimorado, você deve ter:
 
-Controlar a quantidade mínima de caracteres do input;
+Usado metatags e tags semânticas
+Feito menu dropdown ou sidebar
+Usado pelo menos um card
+Utilizado botões de link interno ou externo com efeitos (transições ou animações)
+Adicionado imagens com carrossel
+Usado grid e flexbox para posicionamento dos elementos do site
+Usado um iframe
+Deixado o site responsivo (usando media queries)
+Usado o JavaScript para deixar o site interativo (envio de mensagens, execução de alguma tarefa etc.)
 
-Transformar um campo em obrigatório.
 
-02 - Validando com JS:
+Para a apresentação
 
-Utilizar patterns;
 
-Criar expressões regulares;
+Tempo de apresentação: 10 minutos
 
-Selecionar vários elementos ao mesmo tempo;
 
-Construir funções para cada elemento de uma lista;
+Tópicos da apresentação:
 
-Detectar eventos do usuário;
+Apresentação pessoal
+Falar um pouco sobre o tema do site
+Apresentar os itens obrigatórios:
+Metatags e tags semânticas
+Menu dropdown ou sidebar
+Card
+Transições ou animações
+Carrossel
+Grid e flexbox 
+Iframe
+Responsividade (media queries)
+Interatividade
 
-Importar funções de outros arquivos;
-
-Verificar CPFs com números repetidos.
-
-03 -Desenvolvendo Validações:
-
-Validar os dígitos verificadores do CPF;
-
-Transformar fórmulas matemáticas em código;
-
-Lidar com datas em JavaScript;
-
-Construir comparações de datas para verificar maioridade.
-
-04 - Comunicando ao Usuário:
-
-Encontrar as validações padrões que existem no JavaScript com o Validity State;
-
-Interpretar cada tipo de erro;
-
-Criar mensagens customizadas;
-
-Remover o comportamento padrão de erro do HTML;
-
-Mostrar as mensagens customizadas na página;
-
-Salvar dados no localStorage.
-
-05 - Capturando fotos:
-
-Iniciar camêra do usuário no navegador;
-
-Capturar fotografia;
-
-Lidar com eventos de click;
-
-Aplicar um fluxo de navegação escondendo e mostrando elementos;
-
-Inserir novos dados no localStorage.
+Compartilhar como foi para você incrementar o site e aprofundar os estudos na trilha 2
 
 ## Para saber mais:
 
